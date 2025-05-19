@@ -22,7 +22,7 @@ h = hypot(x, y)
 print(f"La hipotenusa es: {h}")
 
 ````
-**Note
+**Note**
 
 At first, I wrote:
 

@@ -1,4 +1,4 @@
-### 📅 Day 11 – May 20, 2025
+## 📅 Day 11 – May 20, 2025
 
 **✅ What I did:**
 Today I learned how to use conditional structures (simple and compound) in Python. I applied this in exercises where decisions had to be made based on user input and comparisons.

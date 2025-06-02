@@ -1,4 +1,4 @@
-## 📅 Day 22 – May 31, 2025
+## 📅 Day 22 – June 1, 2025
 
 **✅ What I did today:**
 

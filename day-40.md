@@ -4,7 +4,7 @@
 
 - I explored methods and approaches on how to teach languages (not programming).
 
-- My - focus today shifted toward educational strategies and understanding learning processes.
+- My focus today shifted toward educational strategies and understanding learning processes.
 
 - I wasn’t able to study programming due to personal and psychological reasons.
 
